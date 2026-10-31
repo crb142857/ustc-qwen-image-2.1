@@ -1,0 +1,5 @@
+interface:
+  display_name: "USTC Qwen-Image 2.1"
+  short_description: "Prompt-optimized Qwen image generation and editing"
+  brand_color: "#2563EB"
+  default_prompt: "Use $ustc-qwen-image to optimize my brief and generate or edit the image through the USTC endpoint."

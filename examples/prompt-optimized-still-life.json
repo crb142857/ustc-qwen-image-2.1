@@ -1,0 +1,16 @@
+{
+  "mode": "generate",
+  "model": "qwen-image-2.1",
+  "aspect_ratio": "3:2",
+  "size": "1536x1024",
+  "response_size": "1536x1024",
+  "requested_n": 1,
+  "returned_n": 1,
+  "prompt": "A horizontal editorial still-life photograph of a deep cobalt-blue stoneware cup resting on a pale plaster table in a quiet sunlit studio, with a restrained warm-grey palette and soft natural shadows. The plaster surface begins at the lower edge and extends across the foreground, its fine grain and subtle hairline cracks visible in the raking light. Across the upper-left corner, a broad wash of warm daylight falls on a muted sand-colored wall, fading toward the upper-right edge into a cooler blue-grey shadow. The cup sits slightly left of center, its rounded belly and gently flared lip forming the visual anchor. Along the left edge of the frame, a narrow strip of linen curtain hangs mostly out of focus, its coarse weave catching a thin rim of sunlight. In the center, the cup's blue glaze shifts from deep indigo in the shadowed lower-left curve to a luminous sapphire highlight along the right side, with tiny speckles and a soft hand-thrown texture visible across the surface. The elliptical opening at the top shows a darker interior and a pale crescent of reflected daylight near the far rim. A thick, looping handle rises on the right side, its inner curve enclosing a pool of warm background light. Behind the cup, the background is otherwise empty, with a broad field of negative space across the upper third. In the lower-left foreground, a small folded square of off-white cotton rests just outside the cup's shadow. A few fine crumbs of dried clay sit on the table along the lower-right edge, adding quiet evidence of the object's handmade origin. A single delicate fern frond enters the far right edge of the frame, partially cropped and softly blurred. A narrow dusting of pale plaster residue gathers around the cup's foot, interrupted by a faint crescent-shaped contact shadow that makes the vessel feel firmly planted on the table. The lighting comes from a low window at the front left, producing a soft-edged shadow that stretches diagonally behind the cup toward the lower right, while a subtle reflected glow lifts the glaze on the handle and the polished curve of the rim. Atmospheric perspective remains shallow, keeping the wall and table legible without competing with the cup. The overall composition is calm and asymmetrical, balancing the dark blue mass of the cup against the open upper-right space and the small warm-toned details at the edges, with a muted, tactile, contemplative mood.",
+  "endpoint": "https://api.llm.ustc.edu.cn/v1/images/generations",
+  "response_id": null,
+  "created_at": "2026-10-31T17:11:19+08:00",
+  "files": [
+    "E:\\Codex\\temp\\ustc-qwen-image\\examples\\prompt-optimized-still-life.png"
+  ]
+}

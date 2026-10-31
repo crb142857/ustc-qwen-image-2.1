@@ -1,0 +1,15 @@
+{
+  "mode": "generate",
+  "model": "qwen-image-2.1",
+  "size": "1024x1024",
+  "response_size": "1024x1024",
+  "requested_n": 1,
+  "returned_n": 1,
+  "prompt": "A blue ceramic cup on a white table, soft studio lighting, simple clean background.",
+  "endpoint": "https://api.llm.ustc.edu.cn/v1/images/generations",
+  "response_id": null,
+  "created_at": "2026-10-31T15:24:35+08:00",
+  "files": [
+    "E:\\Codex\\temp\\ustc-qwen-image\\examples\\blue-ceramic-cup.png"
+  ]
+}
