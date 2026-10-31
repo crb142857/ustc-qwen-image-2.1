@@ -151,3 +151,8 @@ python "<skill-dir>\scripts\generate_image.py" `
 - 接口细节：`references/api.md`
 - 提示词到 API 的字段映射：`references/integration.md`
 - 客户端实现：`scripts/generate_image.py`
+
+## 致谢
+
+- 感谢中科大词元计划对本项目的支持。
+- 感谢 [qwen-image-2-skill](https://github.com/iamyoki/qwen-image-2.1-skill)，本项目参考了该技能。
